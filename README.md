@@ -3,5 +3,5 @@
 ## Repository
 https://github.com/j-code-org/kkt-contest
 
-## visit
+## Preview
 https://j-code-org.github.io/kkt-contest/#
